@@ -1,0 +1,14 @@
+[
+    {
+        "sender": "Developer",
+        "recipient": "+27838884567",
+        "message": "Where are you? You are late! I have asked you to be on time.",
+        "flag": "Stored"
+    },
+    {
+        "sender": "Developer",
+        "recipient": "+27838884567",
+        "message": "Ok, I am leaving without you.",
+        "flag": "Stored"
+    }
+]
